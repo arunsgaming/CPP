@@ -1,0 +1,7 @@
+# visual studio proj files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+Debug/*
