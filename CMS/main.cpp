@@ -40,33 +40,33 @@ int main()
         {
         case 1:
             system("cls");
-            c1.writeOnFile();
+            c1.WriteOnFile();
             break;
 
         case 2:
             system("cls");
-            c1.readFromFile();
+            c1.ReadFromFile();
             cin.get();
             cin.get();
             break;
 
         case 3:
             system("cls");
-            c1.searchOnFile();
+            c1.SearchOnFile();
             cin.get();
             cin.get();
             break;
 
         case 4:
             system("cls");
-            c1.deleteOnFile();
+            c1.DeleteOnFile();
             cin.get();
             cin.get();
             break;
 
         case 5:
             system("cls");
-            c1.editContact();
+            c1.EditContact();
             cin.get();
             cin.get();
             break;
